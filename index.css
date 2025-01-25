@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+background: url('https://th.bing.com/th/id/R.2cd29d475090e0f62f6511228e01bf6a?rik=6qIdt9lFKqZUYQ&pid=ImgRaw&r=0');
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .container {
+    height: 540px;
+    width: 400px;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+   background: url('https://th.bing.com/th/id/R.faafa15c2eff4c2d576f3de6cadb10c7?rik=otMjncPuf91CAA&pid=ImgRaw&r=0');
+   box-shadow: #02060f;
+border-radius: 25px;
+margin-top: 250px;
+
+
+    
+  }
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration-style: double;
+    
+    font-size: xx-large;
+    color: rgb(19, 36, 18);
+  }
+  .input-group {
+    margin-bottom: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .input-group label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  .input-group input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  .input-group input[type="password"] {
+    font-family: 'Arial', sans-serif;
+  }
+  .input-group input[type="submit"] {
+    background-color: #ff9900;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  /* .input-group input[type="submit"]:hover {
+    background-color: #e68900;
+  } */
+  .form-footer {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .form-footer a {
+    color: #9ecaf1;
+    text-decoration: none;
+  }
+  .btn {
+    margin-top: 20px;
+    padding: 10px 40px;
+    font-size: 1rem;
+    margin-right: 20px;
+    background-color: #8de0c5; 
+    color: #1b1212;
+    cursor: pointer;
+   
+
+    }
+    .btn:hover{
+       background-color: #09530c;
+       color:white;
+    }
+   
+   
+
+
+
+
+
+
+ 
+
+  
